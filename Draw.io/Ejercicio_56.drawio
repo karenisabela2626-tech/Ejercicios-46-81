@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="EkyKkB54Lww5lTxRj7wm">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-17" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-2" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese el dividendo:&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="dividendo" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-19" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-4" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Ingrese el divisor:&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-20" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="divisor" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-21" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cociente = 0&lt;div&gt;resto = dividendo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-22" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-24" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿resto &amp;gt;= divisor?" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-23" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="resto = resto - divisor" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-10" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="790" />
+              <mxPoint x="100" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cociente++" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-12" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Cociente: &quot; + cociente" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-26" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-13" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="&quot;Resto: &quot; + resto" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-15" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-18" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-25" edge="1" parent="1" source="fApDvMs8TvYy-YNFFy_D-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="fApDvMs8TvYy-YNFFy_D-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Si" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="fApDvMs8TvYy-YNFFy_D-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
